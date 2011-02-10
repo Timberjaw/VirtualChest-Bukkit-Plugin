@@ -1,0 +1,7 @@
+name: VirtualChest
+main: com.aranai.virtualchest.VirtualChest
+version: 0.1
+commands:
+  chest:
+    description: Shows a chest
+    usage: /<command>
